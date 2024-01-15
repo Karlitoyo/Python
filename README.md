@@ -9,12 +9,6 @@ Python
   - [Description](#description)
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-  - [Usage](#usage)
-  - [Project Structure](#project-structure)
-  - [Contributing](#contributing)
-  - [License](#license)
-  - [Acknowledgments](#acknowledgments)
 
 ## Description
 
