@@ -3,3 +3,5 @@ foreach ($Letter in $MyArray)
 {
     $Letter
 }
+
+# Updated text to satisfy the merge
